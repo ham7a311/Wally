@@ -7,7 +7,7 @@ The Dashboard is the main interface where users can view a summary of their fina
 - Quick access to recent transactions
 
 
-![Dashboard Screenshot]([https://github.com/user-attachments/assets/005dabc5-8edb-4ca5-bb1f-ef0854b19e88](https://github.com/user-attachments/assets/7ff927ad-0fda-40d8-b3d6-6aabd5578887))
+![Dashboard Screenshot](https://github.com/user-attachments/assets/7ff927ad-0fda-40d8-b3d6-6aabd5578887)
 
 ## Analytics
 The Analytics section provides detailed insights into user spending patterns.
