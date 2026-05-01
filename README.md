@@ -9,6 +9,15 @@ The Dashboard is the main interface where users can view a summary of their fina
 
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/7ff927ad-0fda-40d8-b3d6-6aabd5578887)
 
+## Transactions
+The Transactions page allows users to view and manage all transactions.
+- Users can add, edit, or delete transactions.
+- Search functionality to find specific transactions.
+
+
+![Dashboard Screenshot](https://github.com/user-attachments/assets/cd3f5fa2-54e6-4502-b856-49c798f49822)
+
+
 ## Analytics
 The Analytics section provides detailed insights into user spending patterns.
 - Users can filter expenses by category, date range, and account.
@@ -18,11 +27,6 @@ The Analytics section provides detailed insights into user spending patterns.
 In the Budgets section, users can set monthly budgets for different categories.
 - Notifications when spending approaches the budget limits.
 - Historical budget analysis.
-
-## Transactions
-The Transactions page allows users to view and manage all transactions.
-- Users can add, edit, or delete transactions.
-- Search functionality to find specific transactions.
 
 ## Notifications
 This section is dedicated to alerts and reminders related to transactions and budgets.
