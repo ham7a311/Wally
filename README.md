@@ -9,7 +9,7 @@ The Home Page Showcases key features and benefits of the app.
 - Navigation links to different sections of the website.
 
 
-![Home Page Screenshot](https://github.com/user-attachments/assets/f2082a46-dfb2-4af8-854b-81072a5635a7)
+![Home Page Screenshot](https://github.com/user-attachments/assets/053a1bd2-7917-4c8e-9336-af6fd76bb79b)
 
 
 
