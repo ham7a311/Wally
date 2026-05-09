@@ -7,6 +7,7 @@ The Home Page Showcases key features and benefits of the app.
 - Provides pricing information and subscription tiers.
 - Clear call-to-action buttons to sign up or learn more.
 - Navigation links to different sections of the website.
+- Supported by Arabic and English languages.
 
 
 ![Home Page Screenshot](https://github.com/user-attachments/assets/053a1bd2-7917-4c8e-9336-af6fd76bb79b)
